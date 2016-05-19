@@ -1,0 +1,12 @@
+Green Power Controller Change Log
+
+\\\\V1.0 May11 16//// ##Fully Tested##
+***
+-Created for the ardiono uno
+-Will calculate the RPM using an IR sensor
+-A white patch is required on the spinning object (paper will work)
+-Will relay the RPM to a computer using USB serial
+***
+
+\\\\V1.1////
+***
