@@ -1,7 +1,7 @@
 volatile byte REV;        //The volatile data type has to be used because the variable is used in an interupt function.
 unsigned long int rpm;    //  Define RPM variable
 unsigned long time;       //  Define the variable for the time taken for one revolution.
-
+//comment
 void setup(){
   Serial.begin(9600);  //Begin the serial monitor to send the values to a computer.
   attachInterrupt(digitalPinToInterrupt(2), RPMCount, RISING);     //Call the RPMCount function when pin 2 goes from low to high.
