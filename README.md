@@ -1,3 +1,3 @@
 # DG Car Managment System
 
-# Visit our website: [digital-genius.github.io](digital-genius.github.io)
+# Visit our website: [digital-genius.github.io](http://digital-genius.github.io)
